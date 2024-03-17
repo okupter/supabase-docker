@@ -1,4 +1,4 @@
-FROM docker/compose:1.29.2
+FROM docker/compose:3.8
 
 WORKDIR /app
 
